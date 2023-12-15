@@ -6,10 +6,19 @@ footer {
     background-color: #f5f5f5;
     margin-top: 50px;
   } 
+
+  .navbar-brand {
+    background-color: rgb(125, 143, 143);
+  }
   .cardContainer {
     margin-top: 20px;
   }
   .card {
     margin: 0 auto;
   }
-  
+  img {
+    
+  }
+  .button2 {
+    background-color: black;
+  }
