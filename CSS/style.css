@@ -1,24 +1,36 @@
-footer {
+
+  footer {
     position: absolute;
     width: 100%;
     height: 60px;
     line-height: 60px;
     background-color: #f5f5f5;
     margin-top: 50px;
-  } 
-
-  .navbar-brand {
-    background-color: rgb(125, 143, 143);
+  }
+  .container {
+    overflow: clip;
   }
   .cardContainer {
-    margin-top: 20px;
+    margin-bottom: 15px;
   }
   .card {
     margin: 0 auto;
   }
-  img {
-    
+  .card img {
+    object-fit: cover;
+    aspect-ratio: 16/9;
   }
-  .button2 {
-    background-color: black;
+  .signUp form {
+    margin: 35px auto;
+    background-color: #f2f2f2;
+    padding: 25px;
+    border-radius: 7px;
   }
+  .card-img-special {
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    max-width: 400px !important;
+    max-height: 400px !important;
+
+  }
+  
