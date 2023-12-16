@@ -16,6 +16,7 @@
   .card {
     margin: 0 auto;
   }
+  /*made classes to fit images*/
   .card img {
     object-fit: cover;
     aspect-ratio: 16/9;
@@ -26,11 +27,16 @@
     padding: 25px;
     border-radius: 7px;
   }
+  /*made classes to fit images*/
   .card-img-special {
     object-fit: cover;
     aspect-ratio: 16/9;
     max-width: 400px !important;
     max-height: 400px !important;
-
+/*made classes to fit images*/
   }
-  
+  .img-sm {
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 30px;
+  }
