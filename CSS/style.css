@@ -7,6 +7,11 @@
     background-color: #f5f5f5;
     margin-top: 50px;
   }
+  .font1 {
+    font-size: 20px !important;
+
+
+  }
   .container {
     overflow: clip;
   }
@@ -33,10 +38,11 @@
     aspect-ratio: 16/9;
     max-width: 400px !important;
     max-height: 400px !important;
-/*made classes to fit images*/
+/*made class to size and place image*/
   }
   .img-sm {
     max-width: 200px;
     max-height: 200px;
-    padding-left: 30px;
+    padding-left: 80px;
+    padding-top: 40px;
   }
