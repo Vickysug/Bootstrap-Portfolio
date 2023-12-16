@@ -6,7 +6,7 @@ For this assignment, I will be building my portfolio layout using the Bootstrap 
 
 ## Commits
 
- * I will be committin often as it allows me to see how my app is progressing and gives me a point to revert to if anything goes wrong.
+ * I will be committing often as it allows me to see how my app is progressing and gives me a point to revert to if anything goes wrong.
 
 * I will be clear and descriptive in my commit messaging.
 
@@ -15,15 +15,15 @@ For this assignment, I will be building my portfolio layout using the Bootstrap 
 
     - A Navigation bar
     
-    - A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
+    - A navigation menu at the top. I could use the navbar code provided in Bootstrap's documentation, or create my own navbar by applying the correct Bootstrap classes to your HTML.
 
-      - Include links that are applicable to your portfolio.
+      - Include links that are applicable to my  portfolio.
   
         - Links should navigate to the appropriate sections 
 
     - A hero section
 
-        - A jumbotron featuring my picture, your myname, and any other information I might like to include.
+        - A jumbotron featuring my picture, my name, and any other information I might like to include.
 
     - A work section
 
