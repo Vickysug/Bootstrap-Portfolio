@@ -55,3 +55,14 @@ For this assignment, I will be building my portfolio layout using the Bootstrap 
 
  Deploy my new Bootstrap-powered portfolio to GitHub Pages.
 
+## Screenshots
+
+Screenshot of finished web page:
+
+![Alt text](page-screen-shot.png)
+
+Screenshot of wireframe in Google slides:
+
+![Alt text](wireframe-1.png)  
+
+Link to Google slide: https://docs.google.com/presentation/d/1ycBF_pVwrwFfczI9X7kiNpuIZ0S2OhWFudB_1FkbelU/edit?usp=sharing
