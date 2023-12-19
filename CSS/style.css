@@ -18,9 +18,13 @@
   }
   .cardContainer {
     margin-bottom: 15px;
+    
+
   }
   .card {
     margin: 0 auto;
+    min-width: 100%;
+    min-height: 485px;
   }
   /*made classes to fit images*/
   .card img {
@@ -47,5 +51,5 @@
     padding-left: 80px;
     padding-top: 40px;
     padding-right: 0px;
-  
+  }
 
