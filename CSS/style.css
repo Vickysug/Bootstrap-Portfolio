@@ -24,12 +24,16 @@
   .card {
     margin: 0 auto;
     min-width: 100%;
+    /*changed hight so that all 
+    cards were same as biggest*/
     min-height: 485px;
+    
   }
   /*made classes to fit images*/
   .card img {
     object-fit: cover;
     aspect-ratio: 16/9;
+    
   }
   .signUp form {
     margin: 35px auto;
